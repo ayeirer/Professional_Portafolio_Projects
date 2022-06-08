@@ -1,0 +1,6 @@
+Sales report and Forecast from a company
+I developed a dashboard and a dynamic Forecast for diverse sources of data in excel. 
+The Data has three channels for each one many consumers and a registration on a period, 
+products selected by the consumer, a binary of affiliations. 
+Where I did with the forecast is considering actual sales amount and calculate the new goal for each channel and 
+depending on that the power Bi calculates forecast filter the specifications that the operator wants.
